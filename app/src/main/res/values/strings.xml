@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Photography App</string>
+    <string-array name="category">
+        s<item>Mountains</item>
+        <item>Transport</item>
+        <item>People</item>
+        <item>Nature</item>
+        <item>Architecture</item>
+    </string-array>
+</resources>
